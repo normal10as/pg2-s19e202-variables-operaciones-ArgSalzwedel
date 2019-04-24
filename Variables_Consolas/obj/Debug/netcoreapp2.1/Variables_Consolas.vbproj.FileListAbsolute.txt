@@ -1,0 +1,11 @@
+C:\Users\malon\source\repos\Variables_Consolas\Variables_Consolas\obj\Debug\netcoreapp2.1\Variables_Consolas.vbprojAssemblyReference.cache
+C:\Users\malon\source\repos\Variables_Consolas\Variables_Consolas\obj\Debug\netcoreapp2.1\Variables_Consolas.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\Variables_Consolas\Variables_Consolas\obj\Debug\netcoreapp2.1\Variables_Consolas.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\Variables_Consolas\Variables_Consolas\obj\Debug\netcoreapp2.1\Variables_Consolas.AssemblyInfo.vb
+C:\Users\malon\source\repos\Variables_Consolas\Variables_Consolas\bin\Debug\netcoreapp2.1\Variables_Consolas.deps.json
+C:\Users\malon\source\repos\Variables_Consolas\Variables_Consolas\bin\Debug\netcoreapp2.1\Variables_Consolas.runtimeconfig.json
+C:\Users\malon\source\repos\Variables_Consolas\Variables_Consolas\bin\Debug\netcoreapp2.1\Variables_Consolas.runtimeconfig.dev.json
+C:\Users\malon\source\repos\Variables_Consolas\Variables_Consolas\bin\Debug\netcoreapp2.1\Variables_Consolas.dll
+C:\Users\malon\source\repos\Variables_Consolas\Variables_Consolas\bin\Debug\netcoreapp2.1\Variables_Consolas.pdb
+C:\Users\malon\source\repos\Variables_Consolas\Variables_Consolas\obj\Debug\netcoreapp2.1\Variables_Consolas.dll
+C:\Users\malon\source\repos\Variables_Consolas\Variables_Consolas\obj\Debug\netcoreapp2.1\Variables_Consolas.pdb

@@ -1,0 +1,10 @@
+C:\Users\malon\source\repos\Variables_Consolas\Aritmetica\bin\Debug\netcoreapp2.1\Aritmetica.deps.json
+C:\Users\malon\source\repos\Variables_Consolas\Aritmetica\bin\Debug\netcoreapp2.1\Aritmetica.runtimeconfig.json
+C:\Users\malon\source\repos\Variables_Consolas\Aritmetica\bin\Debug\netcoreapp2.1\Aritmetica.runtimeconfig.dev.json
+C:\Users\malon\source\repos\Variables_Consolas\Aritmetica\bin\Debug\netcoreapp2.1\Aritmetica.dll
+C:\Users\malon\source\repos\Variables_Consolas\Aritmetica\bin\Debug\netcoreapp2.1\Aritmetica.pdb
+C:\Users\malon\source\repos\Variables_Consolas\Aritmetica\obj\Debug\netcoreapp2.1\Aritmetica.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\Variables_Consolas\Aritmetica\obj\Debug\netcoreapp2.1\Aritmetica.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\Variables_Consolas\Aritmetica\obj\Debug\netcoreapp2.1\Aritmetica.AssemblyInfo.vb
+C:\Users\malon\source\repos\Variables_Consolas\Aritmetica\obj\Debug\netcoreapp2.1\Aritmetica.dll
+C:\Users\malon\source\repos\Variables_Consolas\Aritmetica\obj\Debug\netcoreapp2.1\Aritmetica.pdb
