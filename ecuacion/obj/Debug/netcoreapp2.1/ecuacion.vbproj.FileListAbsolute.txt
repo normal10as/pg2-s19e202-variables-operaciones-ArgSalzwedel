@@ -8,3 +8,14 @@ C:\Users\malon\source\repos\Variables_Consolas\ecuacion\obj\Debug\netcoreapp2.1\
 C:\Users\malon\source\repos\Variables_Consolas\ecuacion\obj\Debug\netcoreapp2.1\ecuacion.AssemblyInfo.vb
 C:\Users\malon\source\repos\Variables_Consolas\ecuacion\obj\Debug\netcoreapp2.1\ecuacion.dll
 C:\Users\malon\source\repos\Variables_Consolas\ecuacion\obj\Debug\netcoreapp2.1\ecuacion.pdb
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\ecuacion\bin\Debug\netcoreapp2.1\ecuacion.deps.json
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\ecuacion\bin\Debug\netcoreapp2.1\ecuacion.runtimeconfig.json
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\ecuacion\bin\Debug\netcoreapp2.1\ecuacion.runtimeconfig.dev.json
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\ecuacion\bin\Debug\netcoreapp2.1\ecuacion.dll
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\ecuacion\bin\Debug\netcoreapp2.1\ecuacion.pdb
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\ecuacion\obj\Debug\netcoreapp2.1\ecuacion.vbprojAssemblyReference.cache
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\ecuacion\obj\Debug\netcoreapp2.1\ecuacion.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\ecuacion\obj\Debug\netcoreapp2.1\ecuacion.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\ecuacion\obj\Debug\netcoreapp2.1\ecuacion.AssemblyInfo.vb
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\ecuacion\obj\Debug\netcoreapp2.1\ecuacion.dll
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\ecuacion\obj\Debug\netcoreapp2.1\ecuacion.pdb

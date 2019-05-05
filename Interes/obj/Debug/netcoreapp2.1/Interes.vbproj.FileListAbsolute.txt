@@ -1,0 +1,10 @@
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Interes\bin\Debug\netcoreapp2.1\Interes.deps.json
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Interes\bin\Debug\netcoreapp2.1\Interes.runtimeconfig.json
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Interes\bin\Debug\netcoreapp2.1\Interes.runtimeconfig.dev.json
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Interes\bin\Debug\netcoreapp2.1\Interes.dll
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Interes\bin\Debug\netcoreapp2.1\Interes.pdb
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Interes\obj\Debug\netcoreapp2.1\Interes.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Interes\obj\Debug\netcoreapp2.1\Interes.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Interes\obj\Debug\netcoreapp2.1\Interes.AssemblyInfo.vb
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Interes\obj\Debug\netcoreapp2.1\Interes.dll
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Interes\obj\Debug\netcoreapp2.1\Interes.pdb

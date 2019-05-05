@@ -10,7 +10,7 @@ Module Program
 		Dim c As Int16 = 2
 		Dim x As Int16
 
-		x = ((b * b) - (4 * a * c) / (2 * a))
+		x = ((b ^ 2) - (4 * a * c)) / (2 * a)
 
 		Console.WriteLine("Resultado: " & x)
 

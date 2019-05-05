@@ -1,0 +1,11 @@
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Mayor\bin\Debug\netcoreapp2.1\Mayor.deps.json
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Mayor\bin\Debug\netcoreapp2.1\Mayor.runtimeconfig.json
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Mayor\bin\Debug\netcoreapp2.1\Mayor.runtimeconfig.dev.json
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Mayor\bin\Debug\netcoreapp2.1\Mayor.dll
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Mayor\bin\Debug\netcoreapp2.1\Mayor.pdb
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Mayor\obj\Debug\netcoreapp2.1\Mayor.vbprojAssemblyReference.cache
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Mayor\obj\Debug\netcoreapp2.1\Mayor.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Mayor\obj\Debug\netcoreapp2.1\Mayor.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Mayor\obj\Debug\netcoreapp2.1\Mayor.AssemblyInfo.vb
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Mayor\obj\Debug\netcoreapp2.1\Mayor.dll
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Mayor\obj\Debug\netcoreapp2.1\Mayor.pdb

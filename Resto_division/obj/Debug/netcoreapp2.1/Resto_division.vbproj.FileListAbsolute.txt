@@ -1,0 +1,10 @@
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.deps.json
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.runtimeconfig.json
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.runtimeconfig.dev.json
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.dll
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Resto_division\bin\Debug\netcoreapp2.1\Resto_division.pdb
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.AssemblyInfoInputs.cache
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.AssemblyInfo.vb
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.dll
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Resto_division\obj\Debug\netcoreapp2.1\Resto_division.pdb

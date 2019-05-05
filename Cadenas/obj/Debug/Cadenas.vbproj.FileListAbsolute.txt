@@ -1,0 +1,11 @@
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Cadenas\bin\Debug\Cadenas.exe.config
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Cadenas\bin\Debug\Cadenas.exe
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Cadenas\bin\Debug\Cadenas.pdb
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Cadenas\bin\Debug\Cadenas.xml
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Cadenas\obj\Debug\Cadenas.vbprojAssemblyReference.cache
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Cadenas\obj\Debug\Cadenas.Resources.resources
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Cadenas\obj\Debug\Cadenas.vbproj.GenerateResource.cache
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Cadenas\obj\Debug\Cadenas.vbproj.CoreCompileInputs.cache
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Cadenas\obj\Debug\Cadenas.exe
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Cadenas\obj\Debug\Cadenas.xml
+C:\Users\malon\source\repos\pg2-s19e202-variables-operaciones-ArgSalzwedel\Cadenas\obj\Debug\Cadenas.pdb
